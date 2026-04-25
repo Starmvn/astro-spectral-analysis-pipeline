@@ -98,16 +98,6 @@ The tests check that the input data load correctly, that absorbance is calculate
 
 The included `.gitlab-ci.yml` file runs the tests automatically whenever changes are pushed to GitLab. This is useful because it shows basic familiarity with continuous integration and reproducible development practice.
 
-## CV wording
-
-A concise CV bullet for this project could be:
-
-> Built a reproducible Python spectral-analysis pipeline for infrared data, including data validation, absorbance conversion, automated feature detection, visualisation with Matplotlib, unit testing and GitLab CI integration.
-
-A stronger version for technical roles could be:
-
-> Developed a portfolio-grade scientific Python workflow for infrared spectroscopy analysis, demonstrating structured data ingestion, numerical processing, automated plotting, pytest-based validation and CI/CD using GitLab.
-
 ## Technologies used
 
 - Python
